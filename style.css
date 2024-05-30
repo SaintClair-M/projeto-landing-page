@@ -1,0 +1,140 @@
+*{  width: auto;
+    max-width: 1500px;
+    min-width: 320px;
+    padding: 0px;
+    margin: 0px;
+    font-family: "Inter Tight", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    }
+    #titulo{
+        background-color: #303030;
+        padding-top: 100px;
+    }
+    #principal{
+        color: white;
+        font-weight: 650;
+        font-size: 200%;
+        margin-left: 50px;
+        margin-top: 75px;
+    }
+    #paragrafo1{
+        color: white;
+        font-weight: 100;
+        font-size: 90%;
+        margin: 25px 0% 0% 50px;
+        padding-bottom: 75px;
+    }
+    #inf{
+        background-color: #f9f9f9;
+        display: flex;
+      
+        
+    }
+    #num{
+        font-weight: 600;
+        font-size: 30px;
+        margin-left: 85px;
+        margin-top: 30px;
+     }
+    #const{
+       font-size: 15px;
+       font-weight: 400;
+       margin-left: 85px;
+       margin-bottom: 20px;
+    }
+    #tem{
+        font-weight: 600;
+        font-size: 30px;
+        margin-left: 85px;
+        margin-top: 30px;
+    }
+    #temp{
+       font-size: 15px;
+       font-weight: 400;
+       margin-left: 85px;
+       margin-bottom: 20px;
+    }
+    #ar{
+        font-weight: 600;
+        font-size: 30px;
+        margin-left: 85px;
+        margin-top: 30px;
+    }
+    #are{
+       font-size: 15px;
+       font-weight: 400;
+       margin-left: 85px;
+       margin-bottom: 20px;
+    }
+    #n{
+       margin-top: 30px;
+    }
+    #t{
+        margin-top: 30px;
+    }
+    #a{
+        margin-top: 30px;
+    }
+    #hist{ 
+        background-color: white;
+        display: grid;
+        grid-auto-flow: column;
+        columns: auto;
+        margin-bottom: 30px;
+    }
+    #tex{
+        margin-top: 300px;
+    }
+    #titulo2{
+        font-weight: 600;
+        font-size: 30px;
+        margin-left: 50px;
+    }
+    #p2{
+        margin-left: 50px;
+        margin-top: 50px;
+        font-size: 14px;
+    }
+    #im{
+        margin-top: 100px;
+       
+    }
+    #form{
+        background-color: #303030;
+        text-align: center;
+        
+    }
+    #texto3{
+        
+        color: white;
+        font-weight: 600;
+        font-size: 22px;
+    }
+    input{
+        width: 413px;
+        height: 40px;
+        background-color: #eaece5;
+        margin: 25px;
+        border: 0px;
+        border-radius: 10px;
+        padding-left: 10px;
+    }
+    button{
+        width: 353px;
+        height: 40px;
+        background-color: #C07212;
+        color: #eaece5;
+        border: 0px;
+        border-radius: 10px;
+        margin-bottom: 50px;
+        font-weight: bolder;
+        cursor: pointer;
+    }
+    button:hover{
+        background-color:#e9af68 ;
+        color: white;
+        transform: translateY(+7px);
+        box-shadow: 0px 15px 20px #0beee3;
+        transition: 2s;
+    }
